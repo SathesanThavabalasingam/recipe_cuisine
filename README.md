@@ -11,7 +11,7 @@ Design and execute a method to predict the cuisine of a recipe given only its in
 
 ### Data 
 
-`recipes.json`: file containing 39774 individual recipes, each with the following information:
+`recipes.json`: file containing 10,000 individual recipes, each with the following information:
 
 ```
 {
